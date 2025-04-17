@@ -1,0 +1,100 @@
+{
+  "hash": "b0bde1b4",
+  "configHash": "0f038fc1",
+  "lockfileHash": "1b9c9af1",
+  "browserHash": "089fcd98",
+  "optimized": {
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "f3d3c51d",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.mjs",
+      "file": "react-router-dom.js",
+      "fileHash": "14643941",
+      "needsInterop": false
+    },
+    "@clerk/clerk-react": {
+      "src": "../../node_modules/@clerk/clerk-react/dist/index.mjs",
+      "file": "@clerk_clerk-react.js",
+      "fileHash": "6a879b9e",
+      "needsInterop": false
+    },
+    "humanize-duration": {
+      "src": "../../node_modules/humanize-duration/humanize-duration.js",
+      "file": "humanize-duration.js",
+      "fileHash": "61d7ffec",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "032ca44f",
+      "needsInterop": true
+    },
+    "react-icons/fa": {
+      "src": "../../node_modules/react-icons/fa/index.mjs",
+      "file": "react-icons_fa.js",
+      "fileHash": "94b14e69",
+      "needsInterop": false
+    },
+    "react-icons/ci": {
+      "src": "../../node_modules/react-icons/ci/index.mjs",
+      "file": "react-icons_ci.js",
+      "fileHash": "e71c6e61",
+      "needsInterop": false
+    },
+    "react-icons/rx": {
+      "src": "../../node_modules/react-icons/rx/index.mjs",
+      "file": "react-icons_rx.js",
+      "fileHash": "0dc838b7",
+      "needsInterop": false
+    },
+    "rc-progress": {
+      "src": "../../node_modules/rc-progress/es/index.js",
+      "file": "rc-progress.js",
+      "fileHash": "40a66a6a",
+      "needsInterop": false
+    },
+    "react-icons/io": {
+      "src": "../../node_modules/react-icons/io/index.mjs",
+      "file": "react-icons_io.js",
+      "fileHash": "768e0805",
+      "needsInterop": false
+    },
+    "react-youtube": {
+      "src": "../../node_modules/react-youtube/dist/YouTube.esm.js",
+      "file": "react-youtube.js",
+      "fileHash": "4ef36c9c",
+      "needsInterop": false
+    },
+    "quill": {
+      "src": "../../node_modules/quill/quill.js",
+      "file": "quill.js",
+      "fileHash": "331155af",
+      "needsInterop": false
+    },
+    "uniqid": {
+      "src": "../../node_modules/uniqid/index.js",
+      "file": "uniqid.js",
+      "fileHash": "fd549898",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-PVMYWPFQ": {
+      "file": "chunk-PVMYWPFQ.js"
+    },
+    "chunk-RDVAJHY3": {
+      "file": "chunk-RDVAJHY3.js"
+    },
+    "chunk-W5VMUIAY": {
+      "file": "chunk-W5VMUIAY.js"
+    },
+    "chunk-2TUXWMP5": {
+      "file": "chunk-2TUXWMP5.js"
+    }
+  }
+}
